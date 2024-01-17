@@ -11,5 +11,16 @@
 
 ###### This is an `<h6>` header, which is the smallest
 
-
+## Image
 ![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+
+## Code
+##### Example 1
+```
+$ git init
+Initialized empty Git repository in /Users/skills/Projects/recipe-repository/.git/
+```
+##### Example 2
+``` javascript
+var myVar = "Hello, world!";
+```
